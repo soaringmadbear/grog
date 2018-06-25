@@ -5,6 +5,7 @@ mail: soaringmadbear@tutanota.com
 #include <stdio.h>
 #include <stdlib.h>
 
+
 int main(int argc,char *argv[])
 {
     int quanta=0;
@@ -13,6 +14,7 @@ int main(int argc,char *argv[])
     {
         quanta+=i;
     }
+    printf("hi");
 
     return 0;
 }
